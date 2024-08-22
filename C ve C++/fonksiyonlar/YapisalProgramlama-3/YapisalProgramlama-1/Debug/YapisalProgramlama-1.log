@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (YapisalProgramlama-1.vcxproj, YapisalProgramlama-2.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Source.c
+D:\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-3\YapisalProgramlama-1\Source.c(35,9): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-3\YapisalProgramlama-1\Source.c(35,17): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-3\YapisalProgramlama-1\Source.c(35,23): warning C4244: 'işlev': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  YapisalProgramlama-1.vcxproj -> D:\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-3\Debug\YapisalProgramlama-3.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e66ab30-eacc-4bce-a45c-55078f5e3d6d": {
+      "ProjectGuid": "1e66ab30-eacc-4bce-a45c-55078f5e3d6d",
+      "DisplayName": "YapisalProgramlama-1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (YapisalProgramlama-1.vcxproj, YapisalProgramlama-2.vcxproj, YapisalProgramlama-3.vcxproj, YapisalProgramlama-4.vcxproj, YapisalProgramlama-5.vcxproj, YapisalProgramlama-6.vcxproj, YapisalProgramlama-7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+  toplamaislemi.c
+  cikarmaislemi.c
+  Carpmaislemi.c
+  Generating Code...
+  YapisalProgramlama-1.vcxproj -> C:\Users\patron\Desktop\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-8\Debug\YapisalProgramlama-8.exe
+  YapisalProgramlama-1.vcxproj -> C:\Users\patron\Desktop\Algoritma ve Programlamaya Giriş\Uygulamalar\YapisalProgramlama-8\Debug\YapisalProgramlama-8.pdb (Partial PDB)
